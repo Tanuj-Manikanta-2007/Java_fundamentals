@@ -1,6 +1,6 @@
 # Java_fundamentals
 
-A personal Java learning archive covering **core Java, OOP, Data Structures & Algorithms, and Design & Analysis of Algorithms (DAA)** — built up while preparing for placements and GATE CSE. Meant as a reference for juniors who want a structured path through Java DSA + OOP with working code examples for every topic.
+A personal Java learning archive covering **core Java, OOP, Data Structures & Algorithms, and Design & Analysis of Algorithms (DAA)** — built up while preparing for my Sessionals exams and my dsa practive. Meant as a reference  who want a structured path through Java DSA + OOP with working code examples for every topic.
 
 > If you're new here: start with `Object_Oriented_Programming/`, then `Dsa_Java/`, then `Desing_algorithm_analysis/`. Suggested order is in the [Study Roadmap](#study-roadmap) below.
 
