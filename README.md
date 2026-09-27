@@ -2,7 +2,7 @@
 
 A personal Java learning archive covering **core Java, OOP, Data Structures & Algorithms, and Design & Analysis of Algorithms (DAA)** — built up while preparing for my Sessionals exams and my dsa practive. Meant as a reference  who want a structured path through Java DSA + OOP with working code examples for every topic.
 
-> If you're new here: start with `Object_Oriented_Programming/`, then `Dsa_Java/`, then `Desing_algorithm_analysis/`. Suggested order is in the [Study Roadmap](#study-roadmap) below.
+> If you're new here: start with `src/Object_Oriented_Programming`, then `src/Dsa_Java`, then `src/Desing_algorithm_analysis`. Suggested order is in the [Study Roadmap](#study-roadmap) below.
 
 ---
 
@@ -102,7 +102,7 @@ DAA lab exercises — algorithm design paradigms with complexity analysis in min
 | **Lab 3 — Divide & Conquer** | `findMinMax.java`, `matrixmul.java` |
 | **Lab 4 — Graphs & D&C** | `dijkstra.java`, `strassen_Alrathim.java` (Strassen's Matrix Multiplication) |
 | **Dynamic Programming** | `depth_first_search.java`, `nqueens.java` (N-Queens), `sum_of_sets_target.java` (Subset Sum) |
-| **Greedy** | `Dijkstra_algo.java`, `Prim.java` (Prim's MST), `coin_change.java`, `knap_sack.java` (Fractional Knapsack) |
+| **Greedy** | `Dijkstra_algo.java`, `Prim.java` (Prim's MST), `Desing_algorithm_analysis.src.lab4.dijkstra.coin_change`, `knap_sack.java` (Fractional Knapsack) |
 
 ---
 
@@ -110,10 +110,10 @@ DAA lab exercises — algorithm design paradigms with complexity analysis in min
 
 For a junior working through this repo top to bottom:
 
-1. **OOP fundamentals** → `Object_Oriented_Programming/` (Constructor → Inheritance → Polymorphism → Abstraction → Interfaces → Generics → Case Studies)
-2. **DSA basics** → `Dsa_Java/src/` in this order: Patterns → Maths → Arrays (basic → medium → hard) → Recursion → Sorting → Binary Search → Hashing → Linked List → Stacks & Queues → Strings → Trees
-3. **Extra practice** → `Dsa_Java/src/striver/` once comfortable with the above
-4. **Algorithm design & complexity** → `Desing_algorithm_analysis/` (Lab 1 → Lab 2 → Lab 3 → Lab 4 → Greedy → DP)
+1. **OOP fundamentals** → `src/Object_Oriented_Programming` (Constructor → Inheritance → Polymorphism → Abstraction → Interfaces → Generics → Case Studies)
+2. **DSA basics** → `src/Dsa_Java` in this order: Patterns → Maths → Arrays (basic → medium → hard) → Recursion → Sorting → Binary Search → Hashing → Linked List → Stacks & Queues → Strings → Trees
+3. **Extra practice** → `src/Dsa_Java` once comfortable with the above
+4. **Algorithm design & complexity** → `src/Desing_algorithm_analysis` (Lab 1 → Lab 2 → Lab 3 → Lab 4 → Greedy → DP)
 
 ## ▶️ Running the Code
 
